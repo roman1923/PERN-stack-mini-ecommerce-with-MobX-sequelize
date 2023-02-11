@@ -1,0 +1,25 @@
+.header {
+    position: relative;
+}
+
+.shop-cart-button {
+    cursor: pointer;
+    margin-right: 30px;
+    margin-top: 6px;
+    font-size: 26px;
+}
+
+.shop-cart {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    width: 350px;
+    min-height: 50px;
+    background: #797979;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.basket {
+    border: 1px solid black;
+}
