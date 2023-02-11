@@ -1,4 +1,4 @@
-npm run dev   **for server
+npm run dev   **for server &&
 npm start     **for client
 
 start both of them
